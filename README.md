@@ -192,11 +192,6 @@ This project features custom branding and unique implementations:
 ## 🤝 Contributing
 
 This is a personal project showcasing advanced FastAPI development skills, financial domain expertise, and system architecture capabilities.
-
-## 📄 License
-
-Proprietary - Built by Nabhi for portfolio demonstration
-
 ---
 
 **Built with ❤️ by Abhishek**  
