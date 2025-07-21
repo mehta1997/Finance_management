@@ -1,7 +1,7 @@
 # FinanceFlow API 🚀
 
 **Advanced Personal Wealth Management System**  
-*Built by Nabhi - Full-Stack Financial Technology Developer*
+*Built by Abhishek Mehta - Full-Stack Financial Technology Developer*
 
 ## 🌟 Overview
 
@@ -199,9 +199,8 @@ Proprietary - Built by Nabhi for portfolio demonstration
 
 ---
 
-**Built with ❤️ by Nabhi**  
+**Built with ❤️ by Abhishek**  
 *Specializing in Full-Stack Financial Technology Solutions*
 
-**Contact:** developer@financeflow.com  
-**Portfolio:** [Your Portfolio URL]  
-**LinkedIn:** [Your LinkedIn Profile]
+**Contact:** AbhishekMehtauk@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/abhishek-mehta-029651180/
